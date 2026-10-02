@@ -1,0 +1,11 @@
+{
+  "run": "E:\\DH\\Gitlab\\Jinyang2026\\ai_jyos_2026\\ai_solution\\output\\experiments\\DinoMatch_20261002_115410_IV00007_capture20261002_weighted_mean_k1_unlabeled",
+  "files": {
+    "predictions\\population_summary.json": "3fe31f43922ccb32c4fe36a33d7a7eca3f8e907b21cb90cad8082f5d222c28f2",
+    "predictions\\all_scores.csv": "6e4928f8f236d3d59bc6a95314cb7c8eb4870c14b1aeca565920061e5e836351",
+    "data\\full_evaluation_manifest.json": "17c26f623e90d7e26b68ebd151adda03c0d40c76c46614142e9d3062ea558fad",
+    "model\\model.pth": "a757d57967c7149240dcf8036955d013920430d598da8f9f410941e807904212",
+    "model\\model.onnx": "9a5bf11d8e2c958199d4e7766013872f946c0ee93693bbc552bcb7e30b8a22d6",
+    "logs\\experiment_script.py": "726bd395be52b601700617e99db0b67a01dbd95b6c88fe1bb40a7b9b39308449"
+  }
+}

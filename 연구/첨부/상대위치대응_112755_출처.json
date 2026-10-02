@@ -1,0 +1,22 @@
+[
+    {
+        "Path":  "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\relative_matching_20261002_112755\\artifact_manifest.json",
+        "Hash":  "8BFA8BCB9AC7ACA4A17987297D254A945AC52158D4094AAB1E776B4559BA5853"
+    },
+    {
+        "Path":  "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\relative_matching_20261002_112755\\predictions\\metrics.json",
+        "Hash":  "B74EE9517C3C9B74467E08E3D6817DAB62F8505E9DFBC06661BE21D9CFC99394"
+    },
+    {
+        "Path":  "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\relative_matching_20261002_112755\\logs\\validation.json",
+        "Hash":  "178ACE0FA020FCA91C4274355B71186AF43561A5F00D24AF3EA2EDD914D72DF7"
+    },
+    {
+        "Path":  "E:\\DH\\Obsidian\\연구\\첨부\\상대위치대응_112755_분포.png",
+        "Hash":  "A0734499CD6BD11518EC021B69D00677699B45B0719590A70AA67D114E03ACC8"
+    },
+    {
+        "Path":  "E:\\DH\\Obsidian\\연구\\첨부\\상대위치대응_112755_swap000.jpg",
+        "Hash":  "9F28F7DD1ED8D7C9E4356063D15631D95075D53BC0E46E1802228F43F32E9EA9"
+    }
+]

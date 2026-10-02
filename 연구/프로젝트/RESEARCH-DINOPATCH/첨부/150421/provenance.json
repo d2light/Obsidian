@@ -1,0 +1,26 @@
+[
+    {
+        "Path":  "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\masked_context_20261002_150421\\artifact_manifest.json",
+        "Hash":  "6024245ABA6B0D7B7D030D2916A7F192EE25F22F1F599136AE00D76824C12003"
+    },
+    {
+        "Path":  "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\masked_context_20261002_150421\\predictions\\metrics.json",
+        "Hash":  "CB6A581E88AE3EFFBCB981DB29AE28BF2C168FDE8F9F5FA7ABE0FB59E2F79574"
+    },
+    {
+        "Path":  "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\masked_context_20261002_150421\\logs\\validation.json",
+        "Hash":  "24F920280DF7FBF6CC0B48EF92A81CFBAD8DCA207211301A67775BA9D558B7E5"
+    },
+    {
+        "Path":  "E:\\DH\\Obsidian\\연구\\프로젝트\\RESEARCH-DINOPATCH\\첨부\\150421\\swap000.jpg",
+        "Hash":  "F4A00F28501DEE9F039056151291A2F96F2D6B48552E95769279D41573EA94CB"
+    },
+    {
+        "Path":  "E:\\DH\\Obsidian\\연구\\프로젝트\\RESEARCH-DINOPATCH\\첨부\\150421\\translation_good000.jpg",
+        "Hash":  "F09ABA1D273826674F5A319EF5E9755E3DA08B5E1D543EB9321B21041026C04D"
+    },
+    {
+        "Path":  "E:\\DH\\Obsidian\\연구\\프로젝트\\RESEARCH-DINOPATCH\\첨부\\150421\\loss.png",
+        "Hash":  "639A3809C42E927A67793121D62735097847E93621E1B63B572262CF348466AE"
+    }
+]
