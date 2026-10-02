@@ -1,0 +1,22 @@
+# Only newly created research notes and this policy are tracked.
+# Previously tracked remote files remain tracked and are preserved.
+/*
+!/.gitignore
+!/연구/
+
+# Never include credentials, caches, datasets or model checkpoints.
+**/.env
+**/.env.*
+**/*credentials*
+**/*.pem
+**/*.key
+**/__pycache__/
+**/.DS_Store
+**/Thumbs.db
+**/*.tmp
+**/*.pt
+**/*.pth
+**/*.onnx
+**/*.safetensors
+**/*.sqlite*
+**/datasets/

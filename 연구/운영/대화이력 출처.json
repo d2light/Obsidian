@@ -1,0 +1,60 @@
+[
+  {
+    "session_id": "019f87ae-11e6-7b51-8715-5185ca74840e",
+    "project_path": "e:\\DH\\Sandbox\\sandbox\\01_vision\\05_multilayer",
+    "days": {
+      "2026-07-22": 4
+    },
+    "scope": "User requests reviewed; assistant replies and result documents checked selectively; not a complete transcript"
+  },
+  {
+    "session_id": "01a08a4f-ca7f-74d3-8a8d-976e2362bf3e",
+    "project_path": "e:\\DH\\TEST\\machine_vision",
+    "days": {
+      "2026-09-10": 2
+    },
+    "scope": "User requests reviewed; assistant replies and result documents checked selectively; not a complete transcript"
+  },
+  {
+    "session_id": "01a0a7d4-f087-7452-82b9-94dfe594ae2a",
+    "project_path": "e:\\DH\\Gitlab\\Jinyang2026",
+    "days": {
+      "2026-09-16": 1
+    },
+    "scope": "User requests reviewed; assistant replies and result documents checked selectively; not a complete transcript"
+  },
+  {
+    "session_id": "01a0c158-2801-75e3-b3da-fc4a13b646ad",
+    "project_path": "E:\\DH\\Gitlab\\Jinyang2026\\ai_jyos_2026",
+    "days": {
+      "2026-09-21": 28,
+      "2026-09-22": 59,
+      "2026-09-23": 47,
+      "2026-09-28": 74
+    },
+    "scope": "User requests reviewed; assistant replies and result documents checked selectively; not a complete transcript"
+  },
+  {
+    "session_id": "01a0e628-bbca-7501-b7f7-ace17956461c",
+    "project_path": "E:\\DH\\Sandbox\\Dinopatch",
+    "days": {
+      "2026-09-28": 22,
+      "2026-09-29": 60,
+      "2026-09-30": 11,
+      "2026-10-01": 18,
+      "2026-10-02": 8
+    },
+    "scope": "User requests reviewed; assistant replies and result documents checked selectively; not a complete transcript"
+  },
+  {
+    "session_id": "01a0ea56-5a90-7343-b94e-d900adf79ca4",
+    "project_path": "E:\\DH\\Gitlab\\Jinyang2026\\ai_jyos_2026",
+    "days": {
+      "2026-09-29": 92,
+      "2026-09-30": 39,
+      "2026-10-01": 86,
+      "2026-10-02": 35
+    },
+    "scope": "User requests reviewed; assistant replies and result documents checked selectively; not a complete transcript"
+  }
+]

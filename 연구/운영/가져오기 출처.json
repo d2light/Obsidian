@@ -1,0 +1,207 @@
+[
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\CABLE_COMPONENT_GRAPH.md",
+    "sha256": "d28b00ba4d8a5e930831e1a1fbce2b8a8f3a73b9f898d21c5d18c4132b901cdd",
+    "note": "근거문서/Dinopatch/CABLE_COMPONENT_GRAPH.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\CABLE_FEATURE_CONTROL.md",
+    "sha256": "04bf6b8355aa18945e48e549ce4b4b463d2df31564500f026d393f95dfc372bd",
+    "note": "근거문서/Dinopatch/CABLE_FEATURE_CONTROL.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\CABLE_LONGRANGE_EXPERIMENT.md",
+    "sha256": "510fcbdab0187e97386d723db98c83fa67718a2ea9d89dc7652e81e9e22827b5",
+    "note": "근거문서/Dinopatch/CABLE_LONGRANGE_EXPERIMENT.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\CABLE_REFERENCE_INSPECTION.md",
+    "sha256": "798c7b46bf1c03798f1a5c10b903aa2bdc16c8658f6752f5c76f6b2561d9871b",
+    "note": "근거문서/Dinopatch/CABLE_REFERENCE_INSPECTION.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\CABLE_RELATIONS_EXPERIMENT.md",
+    "sha256": "2e3b14c8f05387c3cf139f784f47569b100469f1b19bab40ce6e6ec9ad485e41",
+    "note": "근거문서/Dinopatch/CABLE_RELATIONS_EXPERIMENT.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\DATASET_ACQUISITION_20260930.md",
+    "sha256": "8bb668443699153a8469cd2d563052c7ed8f7b7bbd1a6dd5a0aed7e9df1152e6",
+    "note": "근거문서/Dinopatch/DATASET_ACQUISITION_20260930.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\DINO_RECONPATCH_PROBE.md",
+    "sha256": "584b9ef5e59b317218048bd89c9d0b62913bcf0f338fa91faf940004e22adfd9",
+    "note": "근거문서/Dinopatch/DINO_RECONPATCH_PROBE.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\ILLUMINATION_RESEARCH_OPTIONS.md",
+    "sha256": "436aee3b55dd2cb4b7431dda792fa8246f553024d722e6a713e163b54620f9f9",
+    "note": "근거문서/Dinopatch/ILLUMINATION_RESEARCH_OPTIONS.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\IMPLEMENTATION_PLAN.md",
+    "sha256": "7df4af85fbe6355ab03c18765f935f17c7c6c7cf42a3d8c16765e2450aa75615",
+    "note": "근거문서/Dinopatch/IMPLEMENTATION_PLAN.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\JEV_AGENT_DESIGN_20261001.md",
+    "sha256": "764266c4ffbfb9a9838616c79bab873730c15f766e13c10986a169257b8e1954",
+    "note": "근거문서/Dinopatch/JEV_AGENT_DESIGN_20261001.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\JEV_AGENT_RESULTS_20261001.md",
+    "sha256": "8275fd984155801c2cd2948d8050cdd4c71035734a6f8736b08310363d884fb6",
+    "note": "근거문서/Dinopatch/JEV_AGENT_RESULTS_20261001.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\JEV_EXPLANATION_RESULTS_20261001.md",
+    "sha256": "b3e776a94450ec5446be5251e617c8e3902c1a07515cb9d530a7d01fe611ca65",
+    "note": "근거문서/Dinopatch/JEV_EXPLANATION_RESULTS_20261001.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\LIBRARY_DESIGN.md",
+    "sha256": "060f0ef384fd3e8931a7dee495574221b69a5d67888826f8611c43fa245ba69b",
+    "note": "근거문서/Dinopatch/LIBRARY_DESIGN.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\PARTS_RESCUE_RESULTS_20261001.md",
+    "sha256": "3be9df558368f2c58b51afe7bfc27453cd65903043b9ed35fbcd129c1acb8327",
+    "note": "근거문서/Dinopatch/PARTS_RESCUE_RESULTS_20261001.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\PATCH_GROUPS_PROTOCOL_20261002.md",
+    "sha256": "6468d524a355842f95580b0174fdec0108dedca6fd665e873dc253a01038b593",
+    "note": "근거문서/Dinopatch/PATCH_GROUPS_PROTOCOL_20261002.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\PATCH_GROUPS_RESULTS_20261002.md",
+    "sha256": "1ca26451d8d7e6df556cce97d57114ffd15b7702540b2c0cad1f363af1c12e52",
+    "note": "근거문서/Dinopatch/PATCH_GROUPS_RESULTS_20261002.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\PATCHCORE_ROTATION_PROBE.md",
+    "sha256": "42460fe49b0d6ebd68b77bbe6735709545c12c81ea32fa633bda543cd6788cb6",
+    "note": "근거문서/Dinopatch/PATCHCORE_ROTATION_PROBE.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\REASONING_EXPERIMENT_LOG_20260930.md",
+    "sha256": "b4983d042e44ccee087980321dbc383665d09eba0e22fa240c405a3aa43eb188",
+    "note": "근거문서/Dinopatch/REASONING_EXPERIMENT_LOG_20260930.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\REASONING_INSPECTION_DESIGN_20260930.md",
+    "sha256": "aed1a0bc26f9b2dae64f6c95f432a680c39810b1aaf8b2e68cd37e881821f87e",
+    "note": "근거문서/Dinopatch/REASONING_INSPECTION_DESIGN_20260930.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\REASONING_REPRODUCE_20261001.md",
+    "sha256": "7185fc422e16188315926e7be9efc0d7b3cbd264d430a717e04db33160e3d8e9",
+    "note": "근거문서/Dinopatch/REASONING_REPRODUCE_20261001.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\REASONING_RESULTS_20261001.md",
+    "sha256": "d2c3d28c2dcd0b31501ac4a694cd9a52bbd8903cc5475b27eb3c55ce553b28f4",
+    "note": "근거문서/Dinopatch/REASONING_RESULTS_20261001.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\RESEARCH_DESIGN_20260930.md",
+    "sha256": "08dc39aa8c64e9d50408fc1cd707301e536772e3f4d7c4359d0949c08d10ecd2",
+    "note": "근거문서/Dinopatch/RESEARCH_DESIGN_20260930.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\RESEARCH_DIRECTION_20260930.md",
+    "sha256": "a2a8efd7ff953e0994c33adbd80f612605168a0262251285635d05119d53faec",
+    "note": "근거문서/Dinopatch/RESEARCH_DIRECTION_20260930.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\RESEARCH_SUMMARY.md",
+    "sha256": "bbbc354555f3be4169028f763aeddca9ca3642f96ae92f0d5f4d088dd9108457",
+    "note": "근거문서/Dinopatch/RESEARCH_SUMMARY.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\SAM_ALIGNMENT_PROBE.md",
+    "sha256": "cfefc90bd6b6215c16a84409ed86542d768be6dda4d17459aa5846cd420bf012",
+    "note": "근거문서/Dinopatch/SAM_ALIGNMENT_PROBE.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\SAM_AUTOMATIC_RESULTS_20260930.md",
+    "sha256": "cb9e631997faffe6c2e2fbeb9bd92e4a314ccf6093e6cd72fed6e289b634fc90",
+    "note": "근거문서/Dinopatch/SAM_AUTOMATIC_RESULTS_20260930.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\SAM_CABLE_PROMPT_PROBE.md",
+    "sha256": "4bef0d6870afc9a07f829fb18029b8c43888dfa3da5fad5fa52ce864bdbdb841",
+    "note": "근거문서/Dinopatch/SAM_CABLE_PROMPT_PROBE.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\UNIVAD_CABLE_PROTOCOL_20261001.md",
+    "sha256": "346d116fc6f34dc3e8d6a28c654d9fb5678febe7118238ad8ae68a48517b14b4",
+    "note": "근거문서/Dinopatch/UNIVAD_CABLE_PROTOCOL_20261001.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\UNIVAD_CABLE_RESULTS_20261001.md",
+    "sha256": "2c85c14e989b10775c467b6dfd29bf2e84df63fd8ee8c22f5ae4a6a81b45c438",
+    "note": "근거문서/Dinopatch/UNIVAD_CABLE_RESULTS_20261001.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\VARIANT_EXPERIMENT.md",
+    "sha256": "9f1c42722ee18bf7763370398e5efd2ae8843eb3db9789eaa3981f55bb85487f",
+    "note": "근거문서/Dinopatch/VARIANT_EXPERIMENT.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\VARIANT_RESULTS.md",
+    "sha256": "0d5eaeffcb68426c9aa6f4052b75c9d46852e4e5fe3dee526e71507145584d04",
+    "note": "근거문서/Dinopatch/VARIANT_RESULTS.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\WATERSEAL_CONTOURS.md",
+    "sha256": "7e70d010850167f93f04f4b1135332621dc49406f3ca5f57951c5ee8366c4ca5",
+    "note": "근거문서/Dinopatch/WATERSEAL_CONTOURS.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\WATERSEAL_DARK.md",
+    "sha256": "60fc56db559add57e8aad13a7408b304f0f3ab59228a048db5eb74fe3bb1d5af",
+    "note": "근거문서/Dinopatch/WATERSEAL_DARK.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\WATERSEAL_MAP_AUDIT.md",
+    "sha256": "1a5ac7e1512de3a349338d3ad6f2afc66bc1b3cb3ea0681b59cc944b18d06d32",
+    "note": "근거문서/Dinopatch/WATERSEAL_MAP_AUDIT.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\WATERSEAL_REVIEWED.md",
+    "sha256": "50822ea030d3adcd9d8809a430c3d87ff417b3de8ef0f2e2be1ce2e7f68567a6",
+    "note": "근거문서/Dinopatch/WATERSEAL_REVIEWED.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\docs\\WATERSEAL_VLM_DECISION_FORMAT.md",
+    "sha256": "9c20224859a25cffbc8bf813bc44bee911bc59c34eee9afa39d2e1b589984d92",
+    "note": "근거문서/Dinopatch/WATERSEAL_VLM_DECISION_FORMAT.md"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\patch_groups_20261002_094823\\distribution.png",
+    "sha256": "77ff392b31198cbdbb772680c2a63feeb9a857764d4c4b384582c4840c75a94f",
+    "note": "첨부/패치연결_점수분포.png"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\patch_groups_20261002_094823\\cards\\014_original_cable_swap_001.jpg",
+    "sha256": "d9e17087016c9dce4f3f14aa327517e27dab2dec7fcb0988ab82f0044509e1a6",
+    "note": "첨부/패치연결_swap검출.jpg"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\patch_groups_20261002_094823\\cards\\013_original_cable_swap_000.jpg",
+    "sha256": "c8f6ef018ee67e0e949c71d8c855963c2443a5ff9bd22439f774324df2af7cea",
+    "note": "첨부/패치연결_swap미탐.jpg"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\univad_cable_20261001_160629\\metrics.png",
+    "sha256": "77fb47f95eb8ba1f0cf7aeb0b33c529e44462def88dcd8f5488f5108c3b469e9",
+    "note": "첨부/UniVAD_결과.png"
+  },
+  {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\univad_cable_20261001_160629\\logs\\component_diagnostic.png",
+    "sha256": "e12cefc62accb1e95a0e3b3881380867d40de0eb37e0c612fceb4ec00af0f6bb",
+    "note": "첨부/UniVAD_부품분할.png"
+  }
+]
