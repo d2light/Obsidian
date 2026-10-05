@@ -1,0 +1,18 @@
+{
+  "swap000.jpg": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\centered_context_20261004_195737\\cards\\013_original_cable_swap_000.jpg",
+    "sha256": "600de0d6d7f04730a9e7501c43b28f5c890667a65f130de4b2e8a26f7d80046b"
+  },
+  "translation_good000.jpg": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\centered_context_20261004_195737\\cards\\060_translation_good_000.jpg",
+    "sha256": "f1d8822b69e1823392fb6d926ba721e23ace38290ceca3e8548956ec96a6f84b"
+  },
+  "loss.png": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\centered_context_20261004_195737\\loss.png",
+    "sha256": "e7c0965f833a8007e7928d5a3442961098e582503afbea390e437d16a9247ceb"
+  },
+  "distribution.png": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\centered_context_20261004_195737\\distribution.png",
+    "sha256": "3cb991282e0936cfa1f207fe5a5efb91ea1468aefc5634ea158ca82b1bf096c8"
+  }
+}
