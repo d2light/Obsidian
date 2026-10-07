@@ -1,0 +1,14 @@
+{
+  "comparison.png": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\local_pose_suite_20261007_091807\\comparison.png",
+    "sha256": "e5fcc757de505cb96e9d9ddffddb0e9da31e631ab26b2fd372755308becb5186"
+  },
+  "130_original_missing_wire_000_rotation6k__original_cal.jpg": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\local_pose_suite_20261007_091807\\cards\\130_original_missing_wire_000_rotation6k__original_cal.jpg",
+    "sha256": "48938281f788266653e766cb6d25b7fbcca6c29b29c74b302a4597678f502ef8"
+  },
+  "140_original_poke_insulation_000_rotation6k__original_cal.jpg": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\local_pose_suite_20261007_091807\\cards\\140_original_poke_insulation_000_rotation6k__original_cal.jpg",
+    "sha256": "fff73db4c3f7add29408d97864902361dcda99410b31be85bd862b73fd2b1c11"
+  }
+}

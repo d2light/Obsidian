@@ -1,0 +1,27 @@
+[
+  {
+    "file": "comparison.png",
+    "source": "E:/DH/Sandbox/Dinopatch/output/comparisons/cross_category_rotation_20261007_094003/comparison.png",
+    "sha256": "4a4660979abec29bbc12891e2a72dc3e4607e5a583916fb01f520ea6f7d9ccc4"
+  },
+  {
+    "file": "score_distributions.png",
+    "source": "E:/DH/Sandbox/Dinopatch/output/comparisons/cross_category_rotation_20261007_094003/score_distributions.png",
+    "sha256": "814d92f7ee4642ac9524c75686af8c0e4d3fd513039a77d2ac4cc005e0b4b7c7"
+  },
+  {
+    "file": "hazelnut_print009.jpg",
+    "source": "E:/DH/Sandbox/Dinopatch/output/comparisons/cross_category_rotation_20261007_094003/hazelnut/cards/102_original_print_009.jpg",
+    "sha256": "33308f9b72cbfff480a58a8e1801c2a03c9b06a45b6aeb0ab7d3688015b2ffc5"
+  },
+  {
+    "file": "metal_nut_good004.jpg",
+    "source": "E:/DH/Sandbox/Dinopatch/output/comparisons/cross_category_rotation_20261007_094003/metal_nut/cards/074_original_good_004.jpg",
+    "sha256": "3570808175f8d6506ddbac185d07d956eeffa267a6b6706d942f357ee4d6dc00"
+  },
+  {
+    "file": "pill_color002.jpg",
+    "source": "E:/DH/Sandbox/Dinopatch/output/comparisons/cross_category_rotation_20261007_094003/pill/cards/002_original_color_002.jpg",
+    "sha256": "14fb23dbc106fa41915aadd58c08e113e78a4e2c27e0d6e624ec2125dda3000e"
+  }
+]

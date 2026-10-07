@@ -1,0 +1,8 @@
+{
+  "output/comparisons/cross_category_rotation_20261007_094003/audit.json": "8f227e51edf1f6d6b46dac0ed80344b8baf4e39f6b39903d9ee8ddd8608a6f7e",
+  "output/comparisons/cross_category_rotation_20261007_094003/hazelnut/predictions/metrics.json": "11e1ee47d31caa357f2db2ffec92865b7a41a710e802e3a817470289e460def2",
+  "output/comparisons/cross_category_rotation_20261007_094003/metal_nut/predictions/metrics.json": "fe5e261aeb15431e68167aa3e15b291b80b683714e7739e0aa83d621df802bcb",
+  "output/comparisons/cross_category_rotation_20261007_094003/pill/predictions/metrics.json": "d22bf354d29188ed9905540c781f5fcdc174246432ae9bc11d2ef69e68681dcf",
+  "results/registry.csv": "26b5ea328de96eb5812152b0847d457ec510242dc5566655f4f8b0a5362c2fe1",
+  "results/efficientad_paper_per_scenario_results.json": "08080bbc858b2546eb3e6f583bb77e62a887ef729981a14ad9fabc401ff48f0f"
+}
