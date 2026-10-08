@@ -1,0 +1,10 @@
+{
+  "old_bolt_masks.png": {
+    "source": "E:\\DH\\Sandbox\\sandbox\\01_vision\\07_anomaly_dino\\output\\bolt_dino_mask\\masks.png",
+    "sha256": "4d65ff8f0402736736e84348ea1841d89ca9fa093710e42fc173a9484e620de9"
+  },
+  "old_screw_sam_prompts.jpg": {
+    "source": "E:\\DH\\Sandbox\\sandbox\\01_vision\\07_anomaly_dino\\output\\screw_sam_prompt\\prompts.jpg",
+    "sha256": "d8e26ec7155bd369bdcb6e166a21d9a0bbe4412b8d2b357a32399616d8f568ca"
+  }
+}

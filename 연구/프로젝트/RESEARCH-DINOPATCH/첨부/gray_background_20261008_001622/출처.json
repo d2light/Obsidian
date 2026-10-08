@@ -1,0 +1,14 @@
+{
+  "metrics.png": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\gray_background_20261008_001622\\evaluation\\visualizations\\metrics.png",
+    "sha256": "5a5cd19a4a2b2aa14bc6b42a2f27489eae1a966af60f90e366864b45a3012cda"
+  },
+  "C036_efficientad_peak.jpg": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\gray_background_20261008_001622\\evaluation\\visualizations\\C036_efficientad_peak.jpg",
+    "sha256": "8912a2e8706e28fc984d28834849353bca2f9b6375989c20f5c2b6e5917fa406"
+  },
+  "Q125_comparison.jpg": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\gray_background_20261008_001622\\evaluation\\visualizations\\Q125_comparison.jpg",
+    "sha256": "1d450c54dd372f1f5350be644fbde4d317ede6a4abbfd2cecfa670426e002657"
+  }
+}

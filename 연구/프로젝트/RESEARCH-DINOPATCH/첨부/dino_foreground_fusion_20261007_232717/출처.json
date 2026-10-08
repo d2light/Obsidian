@@ -1,0 +1,14 @@
+{
+  "comparison.png": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\dino_foreground_fusion_20261007_232717\\visualizations\\comparison.png",
+    "sha256": "f26d130bc0fabe263a3adb6c73ae102d248aa56c57c2377be59a4038b39f2d8a"
+  },
+  "Q048.jpg": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\dino_foreground_fusion_20261007_232717\\visualizations\\Q048.jpg",
+    "sha256": "7b81d60b604bcabb924162937fe0524a62693e8840aee07b3d73dc74d72c6a15"
+  },
+  "Q120.jpg": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\dino_foreground_fusion_20261007_232717\\visualizations\\Q120.jpg",
+    "sha256": "b35819060e8f8f9096fe8c1d75fc5aef52be4b7677555d2ba1eb289ad884ea1f"
+  }
+}

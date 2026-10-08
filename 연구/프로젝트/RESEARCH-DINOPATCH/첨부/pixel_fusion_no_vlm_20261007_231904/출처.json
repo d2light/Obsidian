@@ -1,0 +1,14 @@
+{
+  "scores.png": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\pixel_fusion_no_vlm_20261007_231904\\visualizations\\scores.png",
+    "sha256": "9fdef283f68efc58da18101fadf8bf79699af2a9e0a5ffb086b19879bb909d06"
+  },
+  "metrics.png": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\pixel_fusion_no_vlm_20261007_231904\\visualizations\\metrics.png",
+    "sha256": "0d85ccb21180eaa342aceec44bf42d32e7c8a9a930ba5a22105643f75432bf3f"
+  },
+  "Q120.jpg": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\pixel_fusion_no_vlm_20261007_231904\\visualizations\\Q120.jpg",
+    "sha256": "88babc188e1e53339f00f614c9e7b7cb2e16b9f33043a16c91f4d58022770500"
+  }
+}

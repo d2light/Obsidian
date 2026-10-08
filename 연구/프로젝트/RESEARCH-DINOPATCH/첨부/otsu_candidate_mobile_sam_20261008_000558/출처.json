@@ -1,0 +1,14 @@
+{
+  "comparison.png": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\otsu_candidate_mobile_sam_20261008_000558\\visualizations\\comparison.png",
+    "sha256": "f6685a7b8c8a4a58e55adbdea1999a44ce725fc74b228715bc66ad409902b2bb"
+  },
+  "Q010_boundary.jpg": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\otsu_candidate_mobile_sam_20261008_000558\\visualizations\\Q010_boundary.jpg",
+    "sha256": "f182f243858d4c26da987e969a6a27568fc1f8d709574634f249a7ca19de10b9"
+  },
+  "Q125_boundary.jpg": {
+    "source": "E:\\DH\\Sandbox\\Dinopatch\\output\\comparisons\\otsu_candidate_mobile_sam_20261008_000558\\visualizations\\Q125_boundary.jpg",
+    "sha256": "f0db7898ecca7a4b813ffeb340e365cda0bae83f6c12a1b82f2a41bebaf0fa27"
+  }
+}
